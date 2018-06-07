@@ -10,3 +10,7 @@ this repository contains my assignments
 [assingment5](https://github.com/SjoerdNotenboom/assignments/blob/master/Graded_assignment1%20(2).ipynb)
 
 [assingment6](https://github.com/SjoerdNotenboom/assignments/blob/master/Graded_assignment_2.ipynb)
+
+[final assingment python](https://github.com/SjoerdNotenboom/assignments/blob/master/exam_june_7_2018.ipynb)
+
+[final assingment R](
