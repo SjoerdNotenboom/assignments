@@ -13,4 +13,4 @@ this repository contains my assignments
 
 [final assingment python](https://github.com/SjoerdNotenboom/assignments/blob/master/exam_june_7_2018.ipynb)
 
-[final assingment R](
+[final assingment R](https://github.com/SjoerdNotenboom/assignments/blob/master/Exam_student.ipynb)
